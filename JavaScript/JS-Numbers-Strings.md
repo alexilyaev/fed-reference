@@ -8,7 +8,6 @@ Working with Numbers
 - [Ben Nadel - Exploring Javascript's parseInt() And parseFloat() Functions](https://www.bennadel.com/blog/2012-exploring-javascript-s-parseint-and-parsefloat-functions.htm)
 - [Ben Nadel - Javascript Number.toFixed() Method](https://www.bennadel.com/blog/1013-javascript-number-tofixed-method.htm)
 
-
 Working with Strings
 -----------------------
 

@@ -54,7 +54,8 @@ Shadows
 ### Tools
 
 - [CSSmatic - Box Shadow](http://www.cssmatic.com/box-shadow)
-- [Text Shadow Generator](http://www.css3generator.in/text-shadow.html)
+- [CSS3 Text Shadow Generator](https://css3gen.com/text-shadow/)
+- [CSS3 Text Effects](https://css3gen.com/css3-text-effects/)
 
 Styling Text with CSS3
 -------------------------

@@ -1,0 +1,21 @@
+{
+  "name": "fed-reference",
+  "version": "1.0.0",
+  "description": "A minimalistic curated list of references on Front-End Development for people who are just starting out with their Front-End journey.",
+  "scripts": {
+    "lintmd": "check-all-markdown ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexilyaev/fed-reference.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/alexilyaev/fed-reference/issues"
+  },
+  "homepage": "https://github.com/alexilyaev/fed-reference#readme",
+  "devDependencies": {
+    "check-all-markdown": "1.2.4",
+    "markdownlint-cli": "0.3.1"
+  }
+}

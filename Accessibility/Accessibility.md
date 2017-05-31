@@ -6,8 +6,8 @@ Regulations
 
 - [WCAG 2.0](https://www.w3.org/TR/WCAG20/)
 - [Section 508](https://www.section508.gov/)
-- [Israeli laws](http://index.justice.gov.il/Units/NetzivutShivyon/MercazHameidaLenegishut/HakikatNegishut/HukimTakanotUtkanim/Pages/HukTakUtkanSHERUT.aspx)
-- [Israeli standard 5568](http://index.justice.gov.il/Units/NetzivutShivyon/Kvatzim/1395_Teken5568NegishutAtareiInternet.pdf)
+- [Israeli laws](http://www.justice.gov.il/Units/NetzivutShivyon/MercazHameidaLenegishut/HakikatNegishut/HukimTakanotUtkanim/Pages/HukTakUtkanSHERUT.aspx)
+- [Israeli standard 5568](http://www.justice.gov.il/Units/NetzivutShivyon/Kvatzim/1395_Teken5568NegishutAtareiInternet.pdf)
 
 Tech stack
 -----------
