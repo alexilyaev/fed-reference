@@ -3,7 +3,8 @@ fed-reference
 
 A minimalistic curated list of references on Front-End Development for people who are just starting out with their Front-End journey.
 
-If you're looking for the "blow my mind" type of lists, check out [Awesome - Front-End Development](https://github.com/sindresorhus/awesome#front-end-development)
+If you're looking for the "blow my mind" type of lists, check out [Awesome - Front-End Development](https://github.com/sindresorhus/awesome#front-end-development).  
+If you're looking for a resource to study from, [freeCodeCamp](https://www.freecodecamp.com/) is an excellent one.
 
 Purpose
 ---------

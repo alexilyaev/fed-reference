@@ -23,6 +23,7 @@ Cookies
 localStorage
 -------------
 
+- [freeCodeCamp - Cookies vs localStorage vs sessionStorage](https://www.youtube.com/watch?v=AwicscsvGLg)
 - [MDN - DOM Storage guide](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage)
 - [TutsPlus - Browser Storage for HTML5 Apps](https://code.tutsplus.com/tutorials/browser-storage-for-html5-apps--mobile-2180)
 - [SitePoint - An Overview of the Web Storage API](https://www.sitepoint.com/an-overview-of-the-web-storage-api/)
