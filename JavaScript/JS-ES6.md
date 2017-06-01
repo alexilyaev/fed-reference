@@ -23,18 +23,23 @@ Gotchas
 
 - [When 'not' to use arrow functions](https://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/)
 
-Blogs and Article Collections
-------------------------------
+Articles
+---------
+
+- [Exploring ES6 - Variables and scoping](http://exploringjs.com/es6/ch_variables.html)
+- [Mozilla - ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/)
+
+Blogs
+------
 
 - [2ality](http://2ality.com/)
-- [Mozilla - ES6 In Depth Articles](https://hacks.mozilla.org/category/es6-in-depth/)
 
 Online Tutorials & Books
 ------------------------
 
 - [EggHead.io - Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) (most of the lessons are free)
 - [Kyle Simpson - You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) (excellent free online book)
-- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) (in depth)
+- [Axel Rauschmayer - Exploring ES6](http://exploringjs.com/es6.html) (in depth)
 
 Tools
 ------
@@ -46,3 +51,8 @@ Further Practice
 -----------------
 
 - [ES6 Katas](http://es6katas.org/)
+
+Future ECMAScript Versions
+---------------------------
+
+- [Axel Rauschmayer - Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) (in depth)
