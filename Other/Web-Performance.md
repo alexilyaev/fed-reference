@@ -1,3 +1,4 @@
+
 Web Performance Optimization
 ==============================
 
@@ -67,3 +68,4 @@ Tools
   - [Ilya Grigorik - Faster Websites: Crash Course on Web Performance](https://www.igvita.com/2013/01/15/faster-websites-crash-course-on-web-performance/)
   - [Ilya Grigorik - Automating Performance Best Practices with PageSpeed](https://www.youtube.com/watch?v=uR5urTx8S4E)
 - [DevTools - Measure Resource Loading Times (Network Timeline)](https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading)
+- [This is Success: Why 1000/100/6/50ms?](http://kendsnyder.com/this-is-success-why-1000-100-6-50ms/)
