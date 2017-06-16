@@ -49,6 +49,11 @@ JSX in depth
 - [Babel.js REPL](https://babeljs.io/repl/)
 - [HTML to JSX online compiler](http://magic.reactjs.net/htmltojsx.htm)
 
+### Conditional Rendering
+
+- [React - JSX In Depth - Booleans, Null, and Undefined Are Ignored](https://facebook.github.io/react/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
+- [All the Conditional Renderings in React](https://www.robinwieruch.de/conditional-rendering-react/)
+
 Tools
 ------
 
