@@ -25,6 +25,10 @@ Core concepts
 - [React Core Concepts](https://zombiecodekill.com/2016/06/07/react-core-concepts/)
 - [React - Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
 
+### Refs
+
+- [When to use Ref on a DOM node in React](https://www.robinwieruch.de/react-ref-attribute-dom-node/)
+
 Articles
 ---------
 
