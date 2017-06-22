@@ -18,6 +18,7 @@ Promises
 ----------
 
 - [Google - JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
+- [Eric Elliott - What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 
 AMD/RequireJS
 -------------------
