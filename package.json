@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "A minimalistic curated list of references on Front-End Development for people who are just starting out with their Front-End journey.",
   "scripts": {
-    "lintmd": "check-all-markdown . --no-check-links"
+    "lintmd": "check-all-markdown . --no-check-links",
+    "lint": "check-all-markdown ."
   },
   "repository": {
     "type": "git",
