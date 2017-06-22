@@ -22,7 +22,7 @@ CLI repo: [roast-io-node-cli](https://github.com/sanfrancesco/roast-io-node-cli)
 - `npm i -g roast` (anywhere)
 - `roast deploy -p dist` (in project root, `dist` is the build folder)
 
-#### To add as a `deploy` script in `package.json`:
+#### To add as a `deploy` script in `package.json`
 
 - Add `"deploy": "roast deploy -p dist"` under `scripts`
 - Run `npm run deploy`
