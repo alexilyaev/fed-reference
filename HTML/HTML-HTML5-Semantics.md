@@ -10,6 +10,7 @@ Articles
 - [HTML5 Doctor - Document Outlines](http://html5doctor.com/outlines/)
 - [HTML5 Doctor - The article element](http://html5doctor.com/the-article-element/)
 - [HTML5 Doctor - The section element](http://html5doctor.com/the-section-element/)
+- [StackOverflow - Section vs Article HTML5](https://stackoverflow.com/questions/7549561/section-vs-article-html5)
 - [HTML5 Doctor - The main element](http://html5doctor.com/the-main-element/)
 - [HTML5 Doctor - Aside Revisited](http://html5doctor.com/aside-revisited/)
 - [HTML5 section, aside, header, nav, footer elements – not as obvious as they sound](http://www.anthonycalzadilla.com/2010/08/html5-section-aside-header-nav-footer-elements-not-as-obvious-as-they-sound/)
@@ -25,6 +26,7 @@ Other Semantics
 ----------------
 
 - [TreeHouse - How to use the Meter & Progress Elements](http://blog.teamtreehouse.com/use-meter-progress-elements)
+- [HTML5 Doctor - The Address Element](http://html5doctor.com/the-address-element/)
 
 Best Practices
 ---------------
