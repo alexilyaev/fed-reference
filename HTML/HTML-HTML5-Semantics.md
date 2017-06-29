@@ -27,6 +27,7 @@ Other Semantics
 
 - [TreeHouse - How to use the Meter & Progress Elements](http://blog.teamtreehouse.com/use-meter-progress-elements)
 - [HTML5 Doctor - The Address Element](http://html5doctor.com/the-address-element/)
+- [HTML5 Doctor - The abbr element](http://html5doctor.com/the-abbr-element/)
 
 Best Practices
 ---------------
