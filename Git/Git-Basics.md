@@ -6,6 +6,7 @@ Tutorials
 
 - [TryGit - Getting Started Tutorial](https://try.github.io)
 - [Git Immersion](http://gitimmersion.com/)
+- [EggHead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) (free)
 
 Reference
 ----------
