@@ -53,3 +53,9 @@ Tutorials
 --------------
 
 - [TutsPlus - 30 Days to Learn HTML & CSS](https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css) (week 1)
+
+Reference
+----------
+
+- [Periodic table of HTML elements](https://madebymike.com.au/demos/html5-periodic-table/)
+- [MDN - HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
