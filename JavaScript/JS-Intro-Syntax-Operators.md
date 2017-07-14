@@ -20,6 +20,7 @@ Data Types
 - [MDN - Null](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null)
 - [MDN - Undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
 - [2ality - Not everything is an Object](http://www.2ality.com/2011/03/javascript-values-not-everything-is.html)
+- [Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
 Syntax
 -------
