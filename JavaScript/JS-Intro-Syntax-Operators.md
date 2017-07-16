@@ -35,7 +35,7 @@ Operators
 - [MDN - Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
 - [MDN - Bitwise Operators](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 - [MDN - Comparison operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
-- [JavaScript-Equality-Table](http://dorey.github.io/JavaScript-Equality-Table/)
+- [JavaScript-Equality-Table](https://dorey.github.io/JavaScript-Equality-Table/)
 - [MDN - Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [Speaking JavaScript - Operators](http://speakingjs.com/es5/ch09.html)
 
