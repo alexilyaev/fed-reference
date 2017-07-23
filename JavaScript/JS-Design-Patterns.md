@@ -4,15 +4,20 @@ JS - Design Patterns
 Design Patterns
 -------------------
 
-- [Constructor Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript)
-- [Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+- [Addy Osmani - Constructor Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#constructorpatternjavascript)
+- [Addy Osmani - Module Pattern](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
 - [Todd Motto - Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
-- [Prototype Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#prototypepatternjavascript)
-- [Factory Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript)
-- [Singleton Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript)
-- [Observer Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)
-- [Facade Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript)
-- [Mixin Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript)
+- [Addy Osmani - Prototype Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#prototypepatternjavascript)
+- [Addy Osmani - Factory Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript)
+- [Addy Osmani - Singleton Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript)
+- [Addy Osmani - Observer Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)
+- [Addy Osmani - Facade Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript)
+- [Addy Osmani - Mixin Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#mixinpatternjavascript)
+
+MVC
+----
+
+- [Addy Osmani - Learning JavaScript Design Patterns - MVC](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvc)
 
 Promises
 ----------
@@ -36,4 +41,4 @@ Further Study
 
 - [Addy Osmani - Writing Modular JavaScript With AMD, CommonJS & ES Harmony](https://addyosmani.com/writing-modular-js/)
 - [DailyJS - The How and Why of AMD](http://dailyjs.com/2011/12/22/555-framework/)
-- [Modern Modular JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modularjavascript)
+- [Addy Osmani - Modern Modular JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modularjavascript)
