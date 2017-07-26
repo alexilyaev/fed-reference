@@ -26,6 +26,11 @@ Promises
 - [Eric Elliott - What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [promise-it-wont-hurt - Promises Workshop for JavaScript!](https://github.com/stevekane/promise-it-wont-hurt)
 
+### Tools
+
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+- [Promise visualization playground for the adventurous](https://bevacqua.github.io/promisees/)
+
 AMD/RequireJS
 -------------------
 
