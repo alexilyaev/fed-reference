@@ -28,7 +28,6 @@ Promises
 
 ### Tools
 
-- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
 - [Promise visualization playground for the adventurous](https://bevacqua.github.io/promisees/)
 
 AMD/RequireJS
