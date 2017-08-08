@@ -4,6 +4,7 @@ Style Guides
 HTML/CSS
 ---------
 
+- [Code Guide by @mdo](http://codeguide.co/)
 - [idiomatic-css](https://github.com/necolas/idiomatic-css)
 - [GitHub CSS Style Guide](http://primercss.io/)
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
