@@ -24,3 +24,4 @@ Interactive Tutorials
 ----------------------
 
 - [RegexOne](https://regexone.com/)
+- [Regex Cross­word](https://regexcrossword.com/)
