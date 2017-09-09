@@ -41,6 +41,10 @@ Online Tutorials & Books
 - [Kyle Simpson - You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) (excellent free online book)
 - [Axel Rauschmayer - Exploring ES6](http://exploringjs.com/es6.html) (in depth)
 
+### Modules
+
+- [Understanding ECMAScript 6 - Encapsulating Code With Modules](https://leanpub.com/understandinges6/read#leanpub-auto-encapsulating-code-with-modules)
+
 Tools
 ------
 
