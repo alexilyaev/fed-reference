@@ -10,3 +10,4 @@ Webpack
 --------
 
 - [Webpack from First Principles](https://www.youtube.com/watch?v=WQue1AN93YU)
+- [Getting Started with webpack](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.u6p81xqdz)

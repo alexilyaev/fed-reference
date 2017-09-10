@@ -5,7 +5,7 @@ Tutorials
 -----------
 
 - [Wes Bos - LearnRedux](https://learnredux.com/)
-- [Dan Abramov - Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (121min, by the creator of Redux)
+- [EggHead.io - Dan Abramov - Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (121min, by the creator of Redux)
   - [Community Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
 - [Dan Abramov - Redux behind the scenes](https://www.youtube.com/watch?v=VJ38wSFbM3A) (57min)
 - [LearnCode - React JS Tutorials - YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) (videos 9-14, 15-21)
@@ -70,4 +70,4 @@ Tools
 Further Study
 --------------
 
-- [Dan Abramov - Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) (137min, advanced)
+- [EggHead.io - Dan Abramov - Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) (137min, advanced)

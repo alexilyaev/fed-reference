@@ -83,7 +83,7 @@ React Router v4
 
 ### Tutorials
 
-- [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) (42min)
+- [EggHead.io - Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) (42min)
 
 ### Articles
 
