@@ -34,6 +34,10 @@ Core concepts
 
 - [React - SyntheticEvent](https://facebook.github.io/react/docs/events.html)
 
+### PropTypes
+
+- [React - Typechecking With PropTypes](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
+
 Articles
 ---------
 
