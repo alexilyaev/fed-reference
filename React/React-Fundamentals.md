@@ -30,6 +30,10 @@ Core concepts
 - [React - Refs and the DOM](https://facebook.github.io/react/docs/refs-and-the-dom.html)
 - [When to use Ref on a DOM node in React](https://www.robinwieruch.de/react-ref-attribute-dom-node/)
 
+### Events
+
+- [React - SyntheticEvent](https://facebook.github.io/react/docs/events.html)
+
 Articles
 ---------
 
