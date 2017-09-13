@@ -6,6 +6,7 @@ Boilerplates
 
 - [Create React App](https://github.com/facebookincubator/create-react-app) (by Facebook)
 - [react-es6-starter](https://github.com/alexilyaev/react-es6-starter) (by Alex Ilyaev)
+- [mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate)
 
 Tutorials
 ----------
