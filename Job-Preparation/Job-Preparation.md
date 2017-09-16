@@ -23,6 +23,7 @@ Technical Questions
 - [Toptal - 25 Essential JavaScript Interview Questions*](https://www.toptal.com/javascript/interview-questions)
 - [Toptal - The Vital Guide to JavaScript Interviewing](https://www.toptal.com/javascript#hiring-guide)
 - [Quora - How do you judge a JavaScript programmer by only 5 questions?](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
+- [Interview Questions for front-end-Developers](http://thatjsdude.com/interview/index.html)
 
 ### Eric Elliot
 
