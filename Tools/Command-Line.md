@@ -11,6 +11,11 @@ Articles
 
 - [LifeHacker - A Command Line Primer for Beginners](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 
+Cheat Sheets
+------------
+
+- [Terminal Cheatsheet for Mac (Basics)](https://github.com/0nn0/terminal-mac-cheatsheet)
+
 Further Study
 --------------
 
