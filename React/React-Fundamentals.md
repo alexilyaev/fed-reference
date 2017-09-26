@@ -83,17 +83,7 @@ UI Components
 - [React Toolbox](http://react-toolbox.com/)
 - [Victory - React.js components for modular charting and data visualization](http://formidable.com/open-source/victory/)
 
-React Router v4
-----------------
+Style Guides
+-------------
 
-### Docs
-
-- [Official Docs](https://reacttraining.com/react-router/web)
-
-### Tutorials
-
-- [EggHead.io - Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4) (42min)
-
-### Articles
-
-- [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
+- [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
