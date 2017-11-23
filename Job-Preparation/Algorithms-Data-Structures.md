@@ -79,6 +79,8 @@ Algorithms
 - [Exchange Sort](http://www.ee.ryerson.ca/~courses/coe428/sorting/exchangesort.html)
 - [Bubble Sort](http://www.ee.ryerson.ca/~courses/coe428/sorting/bubblesort.html)
 - [Toptal - Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [Data Structure and Algorithms Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  - [Sort Comparisons](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 
 JS Implementations
 -------------------
@@ -101,7 +103,7 @@ Cheat Sheets
 Exercises
 ----------
 
-- [CS Playground](http://cs-playground-react.surge.sh/)
+- [cs-playground-react](https://github.com/no-stack-dub-sack/cs-playground-react)
 
 Other
 ------
