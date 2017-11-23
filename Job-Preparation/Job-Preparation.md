@@ -13,6 +13,7 @@ Soft Skills
 - [Quora - What are some of the biggest red flags in an interviewee?](https://www.quora.com/What-are-some-of-the-biggest-red-flags-in-an-interviewee-1)
 - [Quora - What are some of the most common mistakes people make in job interviews?](https://www.quora.com/What-are-some-of-the-most-common-mistakes-people-make-in-job-interviews)
 - [Top Interview Questions - 150+ Startups Share their Most Important Question](http://blog.proven.com/top-interview-questions-from-startups)
+- [The Tech Interview Cheatsheet](https://hackernoon.com/the-tech-interview-cheatsheet-8e28d94f5f04)
 
 Technical Questions
 --------------------
@@ -51,10 +52,7 @@ Practical Preparation
 
 ### Computer Science (only if you must)
 
-- [Time Complexity/Big O Notation](https://medium.com/javascript-scene/time-complexity-big-o-notation-1a4310c3ee4b)
-- [CodeAcademy - Big O](https://www.codecademy.com/courses/big-o/0/1)
-- [Nicholas Zakas - Computer Science in JS series](https://www.nczonline.net/blog/tag/computer-science/)
-- [StackOverflow - What is a plain English explanation of “Big O” notation?](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
+- See [Algorithms-Data-Structures](./Algorithms-Data-Structures.md)
 
 ### Exercises
 
@@ -87,4 +85,4 @@ Practical Preparation
 Things to ask an employer
 ---------------------------
 
-- [InterviewThis - An open source list of developer questions to ask prospective employers](https://github.com/ChiperSoft/InterviewThis)
+- See [Behavioral](./Behavioral.md)

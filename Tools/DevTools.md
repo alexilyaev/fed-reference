@@ -15,6 +15,10 @@ Chrome DevTools
 - [Google - Debugging The Web (Chrome Dev Summit 2016)](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 - [Google - DevTools: State of the Union 2017 (Google I/O '17)](https://youtu.be/PjjlwAvV8Jg?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE)
 
+### Debugging
+
+- [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)
+
 Browser Tools
 --------------
 
