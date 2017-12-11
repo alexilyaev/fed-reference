@@ -46,9 +46,10 @@ Technical Questions
 Practical Preparation
 ----------------------
 
-### JS Quirks
+### JS Quirks and General Concepts
 
 - [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [freeCodeCamp - The Definitive JavaScript Handbook for your next developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 
 ### Computer Science (only if you must)
 
