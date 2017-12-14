@@ -44,6 +44,7 @@ Redux
 - [Understanding Redux Middleware](https://medium.com/@meagle/understanding-87566abcfb7a#.p12wswomh)
 - [React - Context](https://facebook.github.io/react/docs/context.html)
 - [react-redux](https://github.com/reactjs/react-redux)
+- [Todd Motto - Finally understand Redux by building your own Store](https://toddmotto.com/redux-typescript-store)
 
 ### Store
 
