@@ -52,10 +52,11 @@ Component Lifecycle
 - [React - The Component Lifecycle](https://facebook.github.io/react/docs/react-component.html)
 - [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
 
-Composable Components
+Components Composition
 ----------------------
 
 - [React - Composition vs Inheritance](https://facebook.github.io/react/docs/composition-vs-inheritance.html)
+- [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 
 JSX in depth
 -------------
