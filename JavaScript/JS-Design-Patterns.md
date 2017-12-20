@@ -24,7 +24,8 @@ Promises
 
 - [Google - JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises)
 - [Eric Elliott - What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
-- [promise-it-wont-hurt - Promises Workshop for JavaScript!](https://github.com/stevekane/promise-it-wont-hurt)
+- [The Promise of a Burger Party](https://kosamari.com/notes/the-promise-of-a-burger-party)
+- [promise-it-wont-hurt - Promises Workshop for JavaScript!](https://github.com/stevekane/promise-it-wont-hurt) (practice)
 
 ### Tools
 
