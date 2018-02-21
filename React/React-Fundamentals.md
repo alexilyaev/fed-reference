@@ -1,7 +1,7 @@
 React - Fundamentals
 =====================
 
-Boilerplates
+Boilerplate's
 -------------
 
 - [Create React App](https://github.com/facebookincubator/create-react-app) (by Facebook)
@@ -11,6 +11,7 @@ Boilerplates
 Tutorials
 ----------
 
+- [EggHead.io - The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) (free - recommended)
 - [EggHead.io - React Fundamentals](https://egghead.io/courses/react-fundamentals) (free)
 - [LearnCode - React JS Tutorials - YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) (videos 1-8)
 - [React - Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
