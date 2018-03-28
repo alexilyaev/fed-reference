@@ -57,6 +57,7 @@ Component Lifecycle
 - [React - The Component Lifecycle](https://facebook.github.io/react/docs/react-component.html)
 - [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
 - [React Lifecycle Methods - How and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+- [React - Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) (important)
 
 Components Composition
 ----------------------
