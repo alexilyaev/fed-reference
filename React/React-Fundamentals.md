@@ -89,7 +89,7 @@ UI Components
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [react.rocks](https://react.rocks/) (search for solutions)
 - [Material-UI](http://www.material-ui.com/)
-- [React Toolbox](http://react-toolbox.com/)
+- [React Toolbox](http://react-toolbox.io/)
 - [Victory - React.js components for modular charting and data visualization](http://formidable.com/open-source/victory/)
 
 Style Guides
