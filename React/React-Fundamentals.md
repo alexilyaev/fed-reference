@@ -27,6 +27,8 @@ Core concepts
 - [React Core Concepts](https://zombiecodekill.com/2016/06/07/react-core-concepts/)
 - [React - Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
 - [React - Fragments](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html)
+- [Props vs. State](https://lucybain.com/blog/2016/react-state-vs-pros/)
+- [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
 
 ### Refs
 
@@ -54,9 +56,8 @@ Articles
 Component Lifecycle
 --------------------
 
-- [React - The Component Lifecycle](https://facebook.github.io/react/docs/react-component.html)
-- [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
-- [React Lifecycle Methods - How and when to use them](https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1)
+- [React - The Component Lifecycle](https://reactjs.org/docs/react-component.html)
+- [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
 - [React - Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) (important)
 
 Components Composition
