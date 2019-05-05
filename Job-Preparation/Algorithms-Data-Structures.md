@@ -104,6 +104,7 @@ Exercises
 ----------
 
 - [cs-playground-react](https://github.com/no-stack-dub-sack/cs-playground-react)
+- [AlgoDaily Challenges](https://www.algodaily.com/challenges)
 
 Other
 ------
