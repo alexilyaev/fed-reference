@@ -4,11 +4,22 @@
   "description": "A minimalistic curated list of references on Front-End Development for people who are just starting out with their Front-End journey.",
   "scripts": {
     "base-prettier": "prettier --ignore-path .gitignore",
-    "base-eslint": "eslint --ignore-path .gitignore",
     "format": "npm run base-prettier -- --write \"**/*.{md,js}\"",
     "lint-md": "check-all-markdown . --no-check-links",
     "lint-md-check-links": "check-all-markdown .",
     "lint": "lint-md"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{md,js}": [
+      "npm run base-prettier -- --write",
+      "npm run lint",
+      "git add"
+    ]
   },
   "repository": {
     "type": "git",
