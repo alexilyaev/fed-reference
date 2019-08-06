@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "A minimalistic curated list of references on Front-End Development for people who are just starting out with their Front-End journey.",
   "scripts": {
-    "lintmd": "check-all-markdown . --no-check-links",
-    "lint": "check-all-markdown ."
+    "base-prettier": "prettier --ignore-path .gitignore",
+    "base-eslint": "eslint --ignore-path .gitignore",
+    "format": "npm run base-prettier -- --write \"**/*.{md,js}\"",
+    "lint-md": "check-all-markdown . --no-check-links",
+    "lint-md-check-links": "check-all-markdown .",
+    "lint": "lint-md"
   },
   "repository": {
     "type": "git",
@@ -16,6 +20,8 @@
   },
   "homepage": "https://github.com/alexilyaev/fed-reference#readme",
   "devDependencies": {
-    "check-all-markdown": "1.3.0"
+    "check-all-markdown": "1.4.0",
+    "eslint": "6.1.0",
+    "prettier": "1.18.2"
   }
 }
