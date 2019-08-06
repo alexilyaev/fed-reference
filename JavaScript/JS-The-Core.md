@@ -3,8 +3,7 @@
 ## Tutorials
 
 - [A Beginner's Guide to JavaScript's Prototype](https://www.youtube.com/watch?v=XskMWBXNbp0)
-- [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript
-  ](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+- [The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
 
 ## Scopes
 
