@@ -1,13 +1,10 @@
-Job Preparation
-=================
+# Job Preparation
 
-Intro
-------
+## Intro
 
 - [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 
-Soft Skills
-------------
+## Soft Skills
 
 - [Eric Elliott - Master the JavaScript Interview: Soft Skills](https://medium.com/javascript-scene/master-the-javascript-interview-soft-skills-a8a5fb02c466)
 - [Quora - What are some of the biggest red flags in an interviewee?](https://www.quora.com/What-are-some-of-the-biggest-red-flags-in-an-interviewee-1)
@@ -15,13 +12,12 @@ Soft Skills
 - [Top Interview Questions - 150+ Startups Share their Most Important Question](http://blog.proven.com/top-interview-questions-from-startups)
 - [The Tech Interview Cheatsheet](https://hackernoon.com/the-tech-interview-cheatsheet-8e28d94f5f04)
 
-Technical Questions
---------------------
+## Technical Questions
 
 - [H5BP - Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
   - [Some of the answers](http://lucybain.com/blog/tags/interview-questions/)
 - [CSS-Tricks - Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
-- [Toptal - 25 Essential JavaScript Interview Questions*](https://www.toptal.com/javascript/interview-questions)
+- [Toptal - 37 Essential JavaScript Interview Questions](https://www.toptal.com/javascript/interview-questions)
 - [Toptal - The Vital Guide to JavaScript Interviewing](https://www.toptal.com/javascript#hiring-guide)
 - [Quora - How do you judge a JavaScript programmer by only 5 questions?](https://www.quora.com/How-do-you-judge-a-JavaScript-programmer-by-only-5-questions)
 - [Interview Questions for front-end-Developers](http://thatjsdude.com/interview/index.html)
@@ -43,8 +39,7 @@ Technical Questions
 
 - [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
-Practical Preparation
-----------------------
+## Practical Preparation
 
 ### JS Quirks and General Concepts
 
@@ -84,7 +79,6 @@ Practical Preparation
 - [CodingGame](https://www.codingame.com/start)
 - [Empire of Code](https://empireofcode.com/)
 
-Things to ask an employer
----------------------------
+## Things to ask an employer
 
 - See [Behavioral](./Behavioral.md)

@@ -1,8 +1,6 @@
-DevTools
-=========
+# DevTools
 
-Chrome DevTools
-----------------
+## Chrome DevTools
 
 ### Articles
 
@@ -19,8 +17,7 @@ Chrome DevTools
 
 - [The 14 JavaScript debugging tips you probably didn't know](https://raygun.com/javascript-debugging-tips)
 
-Browser Tools
---------------
+## Browser Tools
 
 ### Chrome Extensions
 

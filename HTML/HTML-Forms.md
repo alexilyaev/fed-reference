@@ -1,5 +1,4 @@
-HTML - Forms
-=============
+# HTML - Forms
 
 - [Shay Howe - Building Forms](http://learn.shayhowe.com/html-css/building-forms/)
 - [MDN - HTML forms guide](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
@@ -9,7 +8,6 @@ HTML - Forms
   - [MDN - Sending form data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data)
   - [MDN - Data form validation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Data_form_validation)
 
-Examples
-----------
+## Examples
 
 - [HTML5 Doctor - Forms Example](http://html5doctor.com/demos/forms/forms-example.html)

@@ -1,8 +1,6 @@
-Web Storage
-============
+# Web Storage
 
-Cookies
----------
+## Cookies
 
 - [MDN - HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 - [MDN - Document.cookie](https://developer.mozilla.org/en-US/docs/Web/API/document.cookie)
@@ -20,8 +18,7 @@ Cookies
 - [CSS-Tricks - Cookie Getter/Setter](https://css-tricks.com/snippets/javascript/cookie-gettersetter/)
 - [MDN - Cookie Framework](https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework)
 
-localStorage
--------------
+## localStorage
 
 - [freeCodeCamp - Cookies vs localStorage vs sessionStorage](https://www.youtube.com/watch?v=AwicscsvGLg)
 - [MDN - DOM Storage guide](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage)
@@ -33,8 +30,7 @@ localStorage
 
 - [HTML5Rocks - Storage](https://www.html5rocks.com/en/features/storage#demos)
 
-Further Study
----------------
+## Further Study
 
 - [Nicholas Zakas - Cookies and security](https://www.nczonline.net/blog/2009/05/12/cookies-and-security/)
 - [MSDN - Internet Explorer Cookie Internals](https://blogs.msdn.microsoft.com/ieinternals/2009/08/20/internet-explorer-cookie-internals-faq/)

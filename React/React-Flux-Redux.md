@@ -1,8 +1,6 @@
-React - Flux and Redux
-=======================
+# React - Flux and Redux
 
-Tutorials
------------
+## Tutorials
 
 - [Wes Bos - LearnRedux](https://learnredux.com/)
 - [EggHead.io - Dan Abramov - Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) (121min, by the creator of Redux)
@@ -10,8 +8,7 @@ Tutorials
 - [Dan Abramov - Redux behind the scenes](https://www.youtube.com/watch?v=VJ38wSFbM3A) (57min)
 - [LearnCode - React JS Tutorials - YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) (videos 9-14, 15-21)
 
-Flux
------
+## Flux
 
 ### Docs and Articles
 
@@ -32,8 +29,7 @@ Flux
 
 - [On Flux Stores and Actions](http://jaysoo.ca/2015/03/09/on-flux-stores-and-actions/)
 
-Redux
-------
+## Redux
 
 ### Docs and Articles
 
@@ -63,12 +59,10 @@ Redux
 
 - [Redux Docs - Middleware](http://redux.js.org/docs/advanced/Middleware.html)
 
-Tools
-------
+## Tools
 
 - [Redux DevTools](https://github.com/gaearon/redux-devtools)
 
-Further Study
---------------
+## Further Study
 
 - [EggHead.io - Dan Abramov - Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) (137min, advanced)

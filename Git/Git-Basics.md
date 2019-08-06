@@ -1,15 +1,12 @@
-Git Basics
-==========
+# Git Basics
 
-Tutorials
-----------
+## Tutorials
 
 - [TryGit - Getting Started Tutorial](https://try.github.io)
 - [Git Immersion](http://gitimmersion.com/)
 - [EggHead.io - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) (free)
 
-Reference
-----------
+## Reference
 
 - [Official Git Reference](https://git-scm.com/docs) (check out the videos as well)
 - [Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)

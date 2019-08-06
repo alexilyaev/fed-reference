@@ -1,8 +1,6 @@
-CSS - Layout
-============
+# CSS - Layout
 
-CSS Layouts
---------------
+## CSS Layouts
 
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Inline-Block-Space-Fix](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)

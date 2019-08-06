@@ -1,13 +1,10 @@
-CSS3 New Features
-=================
+# CSS3 New Features
 
-Borders
----------
+## Borders
 
 - [CSS-Tricks - The Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 
-Backgrounds & Gradients
--------------------------
+## Backgrounds & Gradients
 
 - [Shay Howe - Designing Gradient Backgrounds](http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/#gradient-backgrounds)
 - [HTMLDog - Gradients](http://htmldog.com/guides/css/advanced/gradients/)
@@ -18,8 +15,7 @@ Backgrounds & Gradients
 - [CSSmatic - Gradient Generator](http://www.cssmatic.com/gradient-generator)
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
-Transforms, Transitions, Animations
-------------------------------------
+## Transforms, Transitions, Animations
 
 - [Unfolding the Box Model](https://rupl.github.io/unfold/)
 - [Shay Howe - Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
@@ -36,8 +32,7 @@ Transforms, Transitions, Animations
 - [Stylie - A graphical CSS3 animation tool](http://jeremyckahn.github.io/stylie/)
 - [3D CSS Tester](http://thewebrocks.com/demos/3D-css-tester/)
 
-Rounded Corners
-----------------
+## Rounded Corners
 
 - [HTMLDog - Rounded Corners](http://htmldog.com/guides/css/advanced/roundedcorners/)
 - [CSS-Tricks - border-radius](https://css-tricks.com/almanac/properties/b/border-radius/)
@@ -46,8 +41,7 @@ Rounded Corners
 
 - [CSSmatic - Border Radius](http://www.cssmatic.com/border-radius)
 
-Shadows
----------
+## Shadows
 
 - [CSS-Tricks - CSS Box Shadow](https://css-tricks.com/snippets/css/css-box-shadow/)
 - [HTMLDog - Shadows](http://htmldog.com/guides/css/advanced/shadows/)
@@ -58,28 +52,24 @@ Shadows
 - [CSS3 Text Shadow Generator](https://css3gen.com/text-shadow/)
 - [CSS3 Text Effects](https://css3gen.com/css3-text-effects/)
 
-Styling Text with CSS3
--------------------------
+## Styling Text with CSS3
 
 - [CSS3 Text Effects: 44 Cool CSS Text Styling Tutorials](http://1stwebdesigner.com/css3-text-effects-typography/)
 
-Cool Libraries
----------------
+## Cool Libraries
 
 - [Hover.css](http://ianlunn.github.io/Hover/)
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 
-Cool Examples
---------------
+## Cool Examples
 
 - [Animatable](http://leaverou.github.io/animatable/)
 - [Hover.css](http://ianlunn.github.io/Hover/)
 - [Animista](http://animista.net/)
 - [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
 
-Further Study
----------------
+## Further Study
 
 ### CSS Transition and Animation
 

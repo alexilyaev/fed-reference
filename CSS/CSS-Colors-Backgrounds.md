@@ -1,13 +1,10 @@
-CSS - Colors, Backgrounds
-==========================
+# CSS - Colors, Backgrounds
 
-Colors
--------
+## Colors
 
 - [W3C - CSS Color Keywords](http://www.w3.org/TR/css3-color/#svg-color)
 
-Colors Tools
--------------
+## Colors Tools
 
 - [ColorZilla - Color Picker for Chrome (extension)](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 - [147 Colors](http://www.147colors.com/grid/)
@@ -19,8 +16,7 @@ Colors Tools
 - [Paletton](http://paletton.com/)
 - [Color Schemer](http://www.colorschemer.com/online.html)
 
-Backgrounds
-------------
+## Backgrounds
 
 - [CSS-Tricks - Background](https://css-tricks.com/almanac/properties/b/background/)
   - [CSS-Tricks - background-image](https://css-tricks.com/almanac/properties/b/background-image/)

@@ -1,28 +1,23 @@
-Web Performance Optimization
-==============================
+# Web Performance Optimization
 
-Introduction/UX
-----------------
+## Introduction/UX
 
 - [Steve Souders - WPO – Web Performance Optimization](http://www.stevesouders.com/blog/2010/05/07/wpo-web-performance-optimization/)
 - [Brad Frost - Performance As Design](http://bradfrost.com/blog/post/performance-as-design/)
 - [Google Global Site Speed Overview](https://analytics.googleblog.com/2012/04/global-site-speed-overview-how-fast-are.html)
 
-How Browsers Work
-------------------
+## How Browsers Work
 
 - [How Browsers Work with Akamai CTO Guy Podjarny](https://www.youtube.com/watch?v=401E5A4Tges) (video - 14min) **(must watch)**
 - [HTML5Rocks - How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) (Long and very detailed)
 - [So, You Want to be a Front-End Engineer](https://youtu.be/Lsg84NtJbmI) (video 60min) **(must watch)**
 - [Google - Ilya Grigorik - Render-tree construction](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=en)
 
-Network
---------
+## Network
 
 - [Website Performance Optimization Checklist](http://lab.abhinayrathore.com/website-performance-optimization-checklist/) **(must read)**
 
-Render
--------
+## Render
 
 - [Paul Lewis - The Runtime Performance Checklist](https://calendar.perfplanet.com/2013/the-runtime-performance-checklist/) **(must read)**
 - [Pixels are expensive](https://aerotwist.com/blog/pixels-are-expensive/) **(must read)**
@@ -35,13 +30,11 @@ Render
 - [Smashing - Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
 - [HTML5Rocks - Accelerated Rendering in Chrome (The Layer Model)](https://www.html5rocks.com/en/tutorials/speed/layers/)
 
-Compute
---------
+## Compute
 
 - [Smashing - Writing Fast, Memory-Efficient JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/) (Long and thorough)
 
-Tools
-------
+## Tools
 
 ### Optimizing Resources
 

@@ -1,8 +1,6 @@
-JS - ES5
-=========
+# JS - ES5
 
-Strict Mode
-------------
+## Strict Mode
 
 - [MDN - Strict Mode](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Strict_mode)
 

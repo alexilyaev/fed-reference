@@ -1,28 +1,23 @@
-React - Fundamentals
-=====================
+# React - Fundamentals
 
-Boilerplate's
--------------
+## Boilerplate's
 
 - [Create React App](https://github.com/facebookincubator/create-react-app) (by Facebook)
 - [react-es6-starter](https://github.com/alexilyaev/react-es6-starter) (by Alex Ilyaev)
 - [mobx-react-boilerplate](https://github.com/mobxjs/mobx-react-boilerplate)
 
-Tutorials
-----------
+## Tutorials
 
 - [EggHead.io - The Beginner's Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) (free - recommended)
 - [EggHead.io - React Fundamentals](https://egghead.io/courses/react-fundamentals) (free)
 - [LearnCode - React JS Tutorials - YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) (videos 1-8)
 - [React - Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
 
-Official docs
---------------
+## Official docs
 
 - [React Docs - Hello World](https://facebook.github.io/react/docs/hello-world.html)
 
-Core concepts
---------------
+## Core concepts
 
 - [React Core Concepts](https://zombiecodekill.com/2016/06/07/react-core-concepts/)
 - [React - Components and Props](https://facebook.github.io/react/docs/components-and-props.html)
@@ -47,27 +42,23 @@ Core concepts
 
 - [React - Forms](https://reactjs.org/docs/forms.html)
 
-Articles
----------
+## Articles
 
 - [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
 - [Babel - React on ES6+](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)
 
-Component Lifecycle
---------------------
+## Component Lifecycle
 
 - [React - The Component Lifecycle](https://reactjs.org/docs/react-component.html)
 - [React 16 Lifecycle Methods: How and When to Use Them](https://blog.bitsrc.io/react-16-lifecycle-methods-how-and-when-to-use-them-f4ad31fb2282)
 - [React - Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html) (important)
 
-Components Composition
-----------------------
+## Components Composition
 
 - [React - Composition vs Inheritance](https://facebook.github.io/react/docs/composition-vs-inheritance.html)
 - [Michael Jackson - Never Write Another HoC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 
-JSX in depth
--------------
+## JSX in depth
 
 - [React - JSX In Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
 - [Babel.js REPL](https://babeljs.io/repl/)
@@ -78,14 +69,12 @@ JSX in depth
 - [React - JSX In Depth - Booleans, Null, and Undefined Are Ignored](https://facebook.github.io/react/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
 - [All the Conditional Renderings in React](https://www.robinwieruch.de/conditional-rendering-react/)
 
-Tools
-------
+## Tools
 
 - [React Developer Tools](https://github.com/facebook/react-devtools)
 - [React JSFiddle](https://jsfiddle.net/reactjs/69z2wepo/) (for quick tests)
 
-UI Components
-----------------
+## UI Components
 
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [react.rocks](https://react.rocks/) (search for solutions)
@@ -93,7 +82,6 @@ UI Components
 - [React Toolbox](http://react-toolbox.io/)
 - [Victory - React.js components for modular charting and data visualization](http://formidable.com/open-source/victory/)
 
-Style Guides
--------------
+## Style Guides
 
 - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)

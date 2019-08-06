@@ -1,14 +1,11 @@
-JS - AJAX
-=============
+# JS - AJAX
 
-Intro & History
------------------
+## Intro & History
 
-- [Wikipedia - AJAX](https://en.wikipedia.org/wiki/Ajax_(programming))
+- [Wikipedia - AJAX](<https://en.wikipedia.org/wiki/Ajax_(programming)>)
 - [Ajax: A New Approach to Web Applications](http://adaptivepath.org/ideas/ajax-new-approach-web-applications/)
 
-Reference
-----------
+## Reference
 
 - [MDN - AJAX](https://developer.mozilla.org/en-US/docs/AJAX)
 - [MDN - XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)

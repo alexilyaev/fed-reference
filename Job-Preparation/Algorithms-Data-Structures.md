@@ -1,19 +1,15 @@
-Algorithms and Data Structures
-===============================
+# Algorithms and Data Structures
 
-NOTE
------
+## NOTE
 
 This is only relevant if you're applying for a major company (e.g. Google/Facebook/Microsoft) or you
 have been asked specifically to study algorithms and data structures.
 
-Courses
----------
+## Courses
 
 - [Khan Academy - CS - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
-Concepts
----------
+## Concepts
 
 ### Big O Notation
 
@@ -38,8 +34,7 @@ Concepts
 - [InterviewCake - Hashing and Hash Functions](https://www.interviewcake.com/concept/javascript/hashing)
 - [InterviewCake - In-Place Algorithm](https://www.interviewcake.com/concept/javascript/in-place)
 
-Data Structures
------------------
+## Data Structures
 
 - [Data Structures for Coding Interviews](https://www.interviewcake.com/article/javascript/data-structures-coding-interview)
 - [Array](https://www.interviewcake.com/concept/javascript/array)
@@ -51,8 +46,7 @@ Data Structures
 - [Binary Tree](https://www.interviewcake.com/concept/javascript/binary-tree)
 - [Graph](https://www.interviewcake.com/concept/javascript/graph)
 
-Algorithms
-------------
+## Algorithms
 
 ### Collection
 
@@ -82,8 +76,7 @@ Algorithms
 - [Data Structure and Algorithms Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
   - [Sort Comparisons](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
 
-JS Implementations
--------------------
+## JS Implementations
 
 - [Cracking the Coding Interview 6th Ed. JavaScript Solutions](https://github.com/careercup/CtCI-6th-Edition-JavaScript/tree/master)
 - [Cracking the Coding Interview 6th Ed. JavaScript ES2015 Solutions](https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015)
@@ -94,35 +87,29 @@ JS Implementations
 - [Linked Lists](https://repl.it/Eyct/40)
 - [Big O Examples](https://github.com/cyk/big-o-js)
 
-Cheat Sheets
--------------
+## Cheat Sheets
 
 - [Big-O Complexity Chart](http://bigocheatsheet.com/)
 - [Big-O Cheatsheet - Data structures and Algorithms with thier complexities](https://www.hackerearth.com/practice/notes/big-o-cheatsheet-series-data-structures-and-algorithms-with-thier-complexities-1/)
 
-Exercises
-----------
+## Exercises
 
 - [cs-playground-react](https://github.com/no-stack-dub-sack/cs-playground-react)
 - [AlgoDaily Challenges](https://www.algodaily.com/challenges)
 
-Other
-------
+## Other
 
 - [Time Complexity of JavaScript’s Built In Methods](http://www.pdiniz.com/time-complexity-of-javascripts-built-in-methods/)
 
-Books
-------
+## Books
 
 - [Data Structure in JavaScript with ES6/ES2016](https://www.gitbook.com/book/pmary/data-structure-in-javascript/details)
 
-Computer Science
------------------
+## Computer Science
 
 - [Harvard - CS50 Lectures 2016](https://www.youtube.com/playlist?list=PLhQjrBD2T382VRUw5ZpSxQSFrxMOdFObl) (high quality, engaging course, very long though)
 
-Binary Numbers and Operations
-------------------------------
+## Binary Numbers and Operations
 
 - [InterviewCake - Binary Numbers](https://www.interviewcake.com/concept/javascript/binary-numbers)
 - [InterviewCake - Bitwise AND](https://www.interviewcake.com/concept/javascript/and)
@@ -132,8 +119,7 @@ Binary Numbers and Operations
 - [InterviewCake - Bit Shifting](https://www.interviewcake.com/concept/javascript/bit-shift)
 - [InterviewCake - Integer Overflow](https://www.interviewcake.com/concept/javascript/integer-overflow)
 
-Interview Preparation
-----------------------
+## Interview Preparation
 
 - [Gayle Laakmann McDowell - Cracking The Coding Interview Playlist](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt) (videos)
   - [Gayle Laakmann McDowell - Cracking The Coding Interview](https://www.youtube.com/watch?v=wXPGxOcna-A) (video) | [Slides](https://www.slideshare.net/gayle2/cracking-the-coding-interview-7-steps-udacity)
@@ -142,13 +128,11 @@ Interview Preparation
 - [Facebook - Preparing for your Software Engineering Interview at Facebook](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook)
 - [A Facebook developer shares 7 secrets to acing an engineering interview](http://www.businessinsider.com/how-to-prepare-for-facebook-engineering-interview-2016-3)
 
-Interview Process
-------------------
+## Interview Process
 
 - [React.js Conf 2016 - Helena Milosevic - Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [How to: Work at Google — Candidate Coaching Session for Technical Interviewing](https://youtu.be/oWbUtlUhwa8)
 
-Interview Examples
--------------------
+## Interview Examples
 
 - [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)

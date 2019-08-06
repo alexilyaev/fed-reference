@@ -1,8 +1,6 @@
-Deployment
-===========
+# Deployment
 
-[Roast.io](https://www.roast.io/)
--------------------------------------
+## [Roast.io](https://www.roast.io/)
 
 A command line service for deploying static web apps, quickly and with no fuss.
 
@@ -30,7 +28,7 @@ CLI repo: [roast-io-node-cli](https://github.com/sanfrancesco/roast-io-node-cli)
 ### Why not GitHub Pages
 
 - `node_modules` and `dist` folders are usually ignored (in `.gitignore`) and not pushed.
-- Even if we removed them from `.gitignore` and pushed, the link for GitHub Pages would have to contain `/dist` at the end.  
+- Even if we removed them from `.gitignore` and pushed, the link for GitHub Pages would have to contain `/dist` at the end.
 - HTML5 History API (URL’s without the `#` sign) require a server that redirects unknown URLs to `index.html`, this is not supported.
 
 ### Comparing to [Surge.sh](https://surge.sh/)
@@ -39,7 +37,6 @@ CLI repo: [roast-io-node-cli](https://github.com/sanfrancesco/roast-io-node-cli)
 - Requires `.surgeignore` file - Surge ignores `node_modules` folders by default (see <https://github.com/surge-sh/ignore>),
   but webpack creates a `node_modules` folder under the `_` folder in our `dist` folder (which we want to deploy), Roast doesn’t ignore it
 
-[Now](https://zeit.co/now)
----------------------------
+## [Now](https://zeit.co/now)
 
 A command line service for deploying Node.js servers, with minimal configuration.

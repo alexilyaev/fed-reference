@@ -1,8 +1,6 @@
-Node.js and `npm`
-=================
+# Node.js and `npm`
 
-Installation
--------------
+## Installation
 
 ### Install Node.js (version ^7.4.0)
 

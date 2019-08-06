@@ -1,8 +1,6 @@
-CSS - Visual Formatting Model
-===============================
+# CSS - Visual Formatting Model
 
-Visual Formatting Model
-------------------------
+## Visual Formatting Model
 
 - [CSS 101 - Introduction to the visual formatting model](http://www.css-101.org/the_visual_formatting_model.php)
 - [CSS 101 - Display](http://www.css-101.org/display/index.php)
@@ -11,8 +9,7 @@ Visual Formatting Model
 - [Sitepoint - Understanding Block Formatting Contexts in CSS](https://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) (Must read)
 - [MDN - Visual formatting model](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Visual_formatting_model) (Extra stuff)
 
-Positioning
--------------
+## Positioning
 
 - [Froont - Positioning in web design](http://blog.froont.com/positioning-in-web-design/)
 - [CSS-Tricks - Absolute Positioning Inside Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
@@ -21,16 +18,14 @@ Positioning
   - [The demo for the above](http://codepen.io/shshaw/full/gEiDt/)
 - [W3C - CSS: Centering Things](https://www.w3.org/Style/Examples/007/center.en.html)
 
-Floats
--------
+## Floats
 
 - [CSS-Tricks - All About Floats](https://css-tricks.com/all-about-floats/)
   - [All About Floats](https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/) (video)
 - [CSS Floats Explained in 5 Questions](http://www.hongkiat.com/blog/css-floats/)
 - [A new micro clearfix hack](http://nicolasgallagher.com/micro-clearfix-hack/) (disregard IE 6/7)
 
-Stacking Layers
-----------------
+## Stacking Layers
 
 - [TutsPlus - What You May Not Know About the Z-Index Property](https://webdesign.tutsplus.com/articles/what-you-may-not-know-about-the-z-index-property--webdesign-16892)
 - [MDN - Understanding CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)

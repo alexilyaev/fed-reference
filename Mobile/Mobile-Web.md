@@ -1,8 +1,6 @@
-Mobile Web
-===========
+# Mobile Web
 
-DPI & Viewport
----------------
+## DPI & Viewport
 
 ### Articles
 
@@ -29,21 +27,18 @@ DPI & Viewport
   - [First, Understand Your Screen](http://tripleodeon.com/assets/2011/12/table.html)
   - [QuirksMode - Screen size tests](http://www.quirksmode.org/m/tests/widthtest.html)
 
-Responsive Images
-------------------
+## Responsive Images
 
 - [CSS-Tricks - Which responsive images solution should you use?](https://css-tricks.com/which-responsive-images-solution-should-you-use/)
 - [Picturefill - A RESPONSIVE IMAGE POLYFILL](http://scottjehl.github.io/picturefill/)
 
-Mobile Testing
----------------
+## Mobile Testing
 
 - [Google - Get Started with Remote Debugging Android Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
 - [Smashing - Testing Mobile: Emulators, Simulators And Remote Debugging](https://www.smashingmagazine.com/2014/09/testing-mobile-emulators-simulators-remote-debugging/)
 - [BrowserSync](https://browsersync.io/)
 
-Mobile Boilerplates
---------------------
+## Mobile Boilerplates
 
 - [HTML5 Mobile Boilerplate](https://html5boilerplate.com/mobile/)
 - [Google - Web Starter Kit](https://github.com/google/web-starter-kit)

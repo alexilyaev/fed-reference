@@ -1,8 +1,6 @@
-Style Guides
-=============
+# Style Guides
 
-HTML/CSS
----------
+## HTML/CSS
 
 - [Code Guide by @mdo](http://codeguide.co/)
 - [idiomatic-css](https://github.com/necolas/idiomatic-css)
@@ -10,8 +8,7 @@ HTML/CSS
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 - [BBC Semantic Markup](http://www.bbc.co.uk/guidelines/futuremedia/technical/semantic_markup.shtml)
 
-JS
----
+## JS
 
 - [JavaScript Standard Style](http://standardjs.com/rules.html)
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js)

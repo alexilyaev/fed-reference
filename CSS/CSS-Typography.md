@@ -1,8 +1,6 @@
-CSS - Typography
-================
+# CSS - Typography
 
-Typography
------------
+## Typography
 
 - [MDN - Font Shorthand](https://developer.mozilla.org/en-US/docs/Web/CSS/font#live_sample)
 - [Web Safe Font Combinations](http://www.w3schools.com/cssref/css_websafe_fonts.asp)

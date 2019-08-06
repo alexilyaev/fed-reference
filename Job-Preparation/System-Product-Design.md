@@ -1,8 +1,6 @@
-System/Product Design
-======================
+# System/Product Design
 
-NOTE
------
+## NOTE
 
 This is only relevant if you're applying for a major company (e.g. Google/Facebook/Microsoft).
 

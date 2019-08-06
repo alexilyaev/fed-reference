@@ -1,8 +1,6 @@
-HTML - HTML5 Semantics
-=======================
+# HTML - HTML5 Semantics
 
-Articles
-----------
+## Articles
 
 - [Shay Howe - Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 - [TreeHouse - How to Use The HTML5 Sectioning Elements](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
@@ -16,37 +14,31 @@ Articles
 - [HTML5 section, aside, header, nav, footer elements – not as obvious as they sound](http://www.anthonycalzadilla.com/2010/08/html5-section-aside-header-nav-footer-elements-not-as-obvious-as-they-sound/)
 - [HTML5 Doctor - The figure & figcaption elements](http://html5doctor.com/the-figure-figcaption-elements/)
 
-Semantic Layout
-----------------
+## Semantic Layout
 
 - [HTML5Code](http://www.html5code.com/tutorials/html5-semantic-layout-tags/)
 - [New semantic tags in HTML5](http://ftsanjuan.com/projects/html5/)
 
-Other Semantics
-----------------
+## Other Semantics
 
 - [TreeHouse - How to use the Meter & Progress Elements](http://blog.teamtreehouse.com/use-meter-progress-elements)
 - [HTML5 Doctor - The Address Element](http://html5doctor.com/the-address-element/)
 - [HTML5 Doctor - The abbr element](http://html5doctor.com/the-abbr-element/)
 
-Best Practices
----------------
+## Best Practices
 
 - [HTML5 Doctor - Avoiding common HTML5 mistakes](http://html5doctor.com/avoiding-common-html5-mistakes/)
 
-Resources
-----------
+## Resources
 
 - [HTML5 Doctor - HTML5 Element Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
 - [W3C - Kinds of Content](http://www.w3.org/TR/html5/dom.html#kinds-of-content)
 
-Tools
-----------
+## Tools
 
 - [HTML5 Outliner](https://gsnedders.html5.org/outliner/)
 
-Further Reference
--------------------
+## Further Reference
 
 - [Shay Howe - Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/)
 - [Shay Howe - Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)

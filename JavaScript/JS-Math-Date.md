@@ -1,8 +1,6 @@
-JS - Math & Date
-=================
+# JS - Math & Date
 
-Math
-------
+## Math
 
 - [MDN - Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 - [Random numbers and floor vs round function](http://stackoverflow.com/questions/7377735/random-numbers-and-floor-vs-round-function)
@@ -10,11 +8,10 @@ Math
 - [CodeAcademy - Random Numbers](https://www.codecademy.com/courses/primitives-development-course/5/1)
 - [Fibonacci Explanation](https://youtu.be/ahXIMUkSXX0) (short video)
 
-Date
-------
+## Date
 
 - [MDN - Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
-- [The Unix Epoch](http://en.wikipedia.org/wiki/Epoch_(reference_date))
+- [The Unix Epoch](<http://en.wikipedia.org/wiki/Epoch_(reference_date)>)
 - [JavaScript and Dates, What a Mess!](http://blog.dygraphs.com/2012/03/javascript-and-dates-what-mess.html)
 
 ### Tools

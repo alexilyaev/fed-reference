@@ -1,5 +1,4 @@
-JS - Regular Expressions
-=========================
+# JS - Regular Expressions
 
 - [Regular-Expressions.info](http://www.regular-expressions.info/)
 - [MDN - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
@@ -12,16 +11,14 @@ JS - Regular Expressions
 - [What special characters must be escaped in regular expressions?](http://stackoverflow.com/questions/399078/what-special-characters-must-be-escaped-in-regular-expressions)
 - [Email Address Regular Expression That 99.99% Works](http://emailregex.com/)
 
-Tools
-------
+## Tools
 
 - [RegExr](http://www.regexr.com/)
   - [RegExr Tutorial](http://youtu.be/fOH62XXGdLs)
 - [Rubular](http://rubular.com/)
 - [RegEx101](https://regex101.com/)
 
-Interactive Tutorials
-----------------------
+## Interactive Tutorials
 
 - [RegexOne](https://regexone.com/)
 - [Regex Cross­word](https://regexcrossword.com/)

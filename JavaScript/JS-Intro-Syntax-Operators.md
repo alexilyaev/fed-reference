@@ -1,35 +1,29 @@
-JS - Intro, Syntax, Operators
-==============================
+# JS - Intro, Syntax, Operators
 
-History
---------
+## History
 
 - [A Brief History of JavaScript](https://auth0.com/blog/a-brief-history-of-javascript/)
 - [2ality - JavaScript - How It All Began](http://www.2ality.com/2011/03/javascript-how-it-all-began.html) (specific about JS creation)
 
-Intro
-------
+## Intro
 
 - [HTML Event Attributes](http://www.w3schools.com/tags/ref_eventattributes.asp)
 - [Why Inline CSS And JavaScript Code Is Such A Bad Thing](https://robertnyman.com/2008/11/20/why-inline-css-and-javascript-code-is-such-a-bad-thing/)
 - [Put Scripts at the Bottom](http://stevesouders.com/hpws/rule-js-bottom.php)
 
-Data Types
------------
+## Data Types
 
 - [MDN - Null](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null)
 - [MDN - Undefined](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
 - [2ality - Not everything is an Object](http://www.2ality.com/2011/03/javascript-values-not-everything-is.html)
 - [Explaining Value vs. Reference in Javascript](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
-Syntax
--------
+## Syntax
 
 - [Idiomatic JS - Comments](https://github.com/rwaldron/idiomatic.js/#comments)
 - [2ality - Automatic semicolon insertion in JavaScript](http://www.2ality.com/2011/05/semicolon-insertion.html)
 
-Operators
-----------
+## Operators
 
 - [MDN - Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
 - [MDN - Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
@@ -39,7 +33,6 @@ Operators
 - [MDN - Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [Speaking JavaScript - Operators](http://speakingjs.com/es5/ch09.html)
 
-Books Chapters
----------------
+## Books Chapters
 
 - [Eloquent JavaScript - Values](http://eloquentjavascript.net/01_values.html)

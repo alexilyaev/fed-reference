@@ -1,8 +1,6 @@
-CSS - Intro, Syntax
-====================
+# CSS - Intro, Syntax
 
-Syntax
--------
+## Syntax
 
 - [CSS - Wikipedia](http://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 - [CSS Zen Garden](http://www.csszengarden.com/)

@@ -1,8 +1,6 @@
-CSS3 - Grid
-============
+# CSS3 - Grid
 
-Grid Layout
-------------
+## Grid Layout
 
 - [Learn CSS Grid](http://learncssgrid.com/)
 - [Grid by example](http://gridbyexample.com/examples/)
@@ -11,13 +9,11 @@ Grid Layout
 - [MDN - CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [Building Production-Ready CSS Grid Layouts Today](https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/)
 
-Videos & Tutorials
---------------------
+## Videos & Tutorials
 
 - [CSS Grid Changes EVERYTHING](https://youtu.be/7kVeCqQCxlk)
 - [EggHead.io - Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
 
-Grid Playground
-----------------
+## Grid Playground
 
 - [Grid Garden](https://cssgridgarden.com/) (interactive game)
