@@ -2,6 +2,7 @@
 
 ## Strict Mode
 
+- [What Does "use strict" Do in JavaScript?](https://masteringjs.io/tutorials/fundamentals/strict)
 - [MDN - Strict Mode](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Strict_mode)
 
 ### Highlights
