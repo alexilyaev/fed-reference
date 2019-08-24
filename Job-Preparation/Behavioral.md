@@ -5,5 +5,5 @@
 
 ## Questions to Ask
 
-- [tech-interview-handbook - Questions to Ask](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md)
+- [tech-interview-handbook - Questions to Ask](https://yangshun.github.io/tech-interview-handbook/questions-to-ask/)
 - [Interview This!](https://github.com/Twipped/InterviewThis)
