@@ -2,7 +2,7 @@
   "default": true,
   "header-increment": true,
   "first-header-h1": true,
-  "header-style": { "style": "setext_with_atx" },
+  "header-style": { "style": "consistent" },
   "ul-style": { "style": "consistent" },
   "list-indent": true,
   "ul-start-left": true,
@@ -21,11 +21,11 @@
   "header-start-left": true,
   "no-duplicate-header": false,
   "single-h1": true,
-  "no-trailing-punctuation": {"punctuation": ".,;:!"},
+  "no-trailing-punctuation": { "punctuation": ".,;:!" },
   "no-multiple-space-blockquote": true,
   "no-blanks-blockquote": true,
   "ol-prefix": { "style": "one" },
-  "list-marker-space": 1,
+  "list-marker-space": true,
   "blanks-around-fences": true,
   "blanks-around-lists": true,
   "no-inline-html": { "allowed_elements": [] },
@@ -38,5 +38,5 @@
   "fenced-code-language": true,
   "first-line-h1": true,
   "no-empty-links": true,
-  "required-headers": null
+  "required-headers": false
 }
